@@ -1,0 +1,70 @@
+
+.Logos {
+  width: 200px; /* Ajustez la largeur en fonction de votre préférence */
+  height: auto; /* Permet de conserver les proportions de l'image */
+  display: block;
+  margin: 0 auto;
+  /* Autres styles spécifiques à "Logos" */
+}
+.footer-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.footer-item h3 {
+  flex-basis: 100%;
+  text-align: center;
+   color:#000;
+}
+
+.footer-item ul {
+  flex-basis: 100%;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+   color:#000;
+}
+
+.footer-item li {
+  margin: 10px;
+   color:#000;
+}
+.footer-item a {
+  color:#000;
+}
+
+.Logos {
+  width: 200px; /* Ajustez la largeur en fonction de votre préférence */
+  height: auto; /* Permet de conserver les proportions de l'image */
+  display: block;
+  margin: 0 auto;
+  /* Autres styles spécifiques à "Logos" */
+}
+.text-black {
+     color: #0d233e;}
+.ul {
+         margin-left: 200px;
+     }
+
+
+     .user-avatar-trigger {
+
+      margin-right: 0.5rem;
+    }
+
+    .user-avatar {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background-color: #5086ec;
+      color: #fff;
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 0.5rem;
+    }
